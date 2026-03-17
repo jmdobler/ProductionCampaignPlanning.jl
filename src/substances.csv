@@ -1,0 +1,11 @@
+Name,Einheit,SAP_No,CAS_No,Gehalt,Molgewicht,Dichte
+Ethanol,kg,301236,64-17-5,100,46.07,0.789
+Hydrazin Hydrat,kg,301220,7803-57-8,64.0,32.05,1.03
+Wasser,kg,,,100,18.01,1.000
+Imidoester,kg,IMIDOE,1211-60-5,100,220.27,1.000
+Dihydrazon,kg,DIHYDR,19173-40-1,100,192.23,1.000
+Mutterlauge,kg,,,5,192.23,0.85
+Benzil,kg,BENZIL,134-81-6,100,210.23,1.000
+WP30,kg,WP30EP,,100,540.63,1.000
+solvent,kg,321321,,100,98.765,0.987
+solvent,kg,812321,,100,98.765,0.99
